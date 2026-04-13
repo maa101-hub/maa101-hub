@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourabh Ramteke</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=SDE+Intern+@+Mphasis;Java+Backend+Developer;Full+Stack+Developer;DSA+Enthusiast;Exploring+GenAI&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;Full+Stack+Developer;DSA+Enthusiast;Exploring+GenAI&center=true&width=500&height=45">
 </p>
 
 <h3 align="center">🚀 Java | Spring Boot | React | DSA (1800+ LeetCode)</h3>
