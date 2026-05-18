@@ -1,10 +1,10 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sourabh%20Ramteke&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20DSA%20Enthusiast&descSize=18&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sourabh%20Ramteke&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=45&lines=SDE+Intern+%40+Mphasis;700%2B+LeetCode+%7C+600%2B+GFG+Problems+Solved;Spring+Boot+%7C+React+%7C+Microservices;Building+Scalable+Backend+Systems;Exploring+Generative+AI+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=45&lines=SDE+Intern+%40+Mphasis;Full-Stack+Java+Developer;DSA+Enthusiast+%7C+1300%2B+Problems" />
 </p>
 
 <p align="center">
@@ -204,6 +204,49 @@ Full Stack Job Portal Platform with:
 <a href="https://github.com/maa101-hub">
 <img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Fun Projects & Tools
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### <img src="https://em-content.zobj.net/source/twitter/376/face-with-tears-of-joy_1f602.png" width="20"> Random Joke Generator
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/API-0099CC?style=flat-square&logo=swagger&logoColor=white"/>
+</p>
+
+A fun and interactive joke generator with:
+- Random jokes from Official Joke API
+- Joke history with localStorage
+- Copy to clipboard functionality
+- Beautiful gradient UI
+- Responsive design
+
+<a href="https://portfolio-lovat-nine-p6b17s5lf9.vercel.app/projects/joke-generator/">
+<img src="https://img.shields.io/badge/Try%20It%20Out-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/maa101-hub/portfolio/tree/main/projects/joke-generator">
+<img src="https://img.shields.io/badge/View%20Code-333333?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="50%">
+
+### <img src="https://em-content.zobj.net/source/twitter/376/robot_1f916.png" width="20"> More Coming Soon...
+
+Stay tuned for more cool projects and tools!
 
 </td>
 </tr>
