@@ -1,96 +1,226 @@
-<h1 align="center">Hi 👋, I'm Sourabh Ramteke</h1>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sourabh%20Ramteke&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java%20Backend%20Developer%20%7C%20Full%20Stack%20Engineer%20%7C%20DSA%20Enthusiast&descSize=18&descAlignY=55"/>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Developer;Full+Stack+Developer;DSA+Enthusiast;Exploring+GenAI&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=45&lines=SDE+Intern+%40+Mphasis;1800%2B+LeetCode+Rating+%F0%9F%94%A5;Spring+Boot+%7C+React+%7C+Microservices;Building+Scalable+Backend+Systems;Exploring+Generative+AI+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
-
-<h3 align="center">🚀 Java | Spring Boot | React | DSA (1800+ LeetCode)</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maa101-hub&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-## 🧑‍💻 About Me
-- 🔭 Currently working on **SkyWays Airline System**
-- 💼 SDE Intern @ **Mphasis**
-- 🌱 Exploring **Generative AI, System Design, Advanced Backend**
-- 💬 Ask me about **Java, Spring Boot, DSA, Full Stack Development**
-- ⚡ Fun fact: *I turn complex problems into optimized solutions 🚀*
-
----
-
-## 🏆 Achievements
-- 
-- 💡 LeetCode Rating: **1800+**
-- 🔥 Strong in **DSA (C++)**
-
----
-
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/sourabh_ramteke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourabh_ramteke" height="30" width="40" /></a>
-<a href="https://kaggle.com/sourabhramteke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sourabhramteke" height="30" width="40" /></a>
-<a href="https://fb.com/sourabh_ramteke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sourabh_ramteke" height="30" width="40" /></a>
-<a href="https://instagram.com/s_ramteke13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_ramteke13" height="30" width="40" /></a>
-<a href="https://medium.com/@sourabhramteke1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sourabhramteke1311" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sourabh7283" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sour1311" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sourabhramteke11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sourabhramteke11" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sour1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sour1311" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sourabh_101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sourabh_101" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sourabhracv1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sourabhracv1w" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/481051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="481051" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=maa101-hub&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/maa101-hub?label=Followers&style=for-the-badge&color=6C63FF" />
 </p>
 
 ---
 
-## 🚀 Tech Stack
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+```yaml
+name: Sourabh Ramteke
+role: SDE Intern @ Mphasis
+location: India
+current_project: SkyWays Airline System
+education: B.Tech in Computer Science
+
+fields_of_interest:
+  - Backend Development
+  - Full Stack Web Apps
+  - Data Structures & Algorithms
+  - Generative AI & ML
+
+currently_learning:
+  - Scalable System Design
+  - Generative AI
+  - Advanced Spring Boot Microservices
+
+fun_fact: "I turn complex problems into optimized solutions"
+```
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+- **Working on:** SkyWays Airline System
+- **Learning:** GenAI, System Design, ML
+- **Ask me about:** Java, Spring Boot, DSA, React
+- **LeetCode:** 1800+ Rating
+- **Reach me:** [LinkedIn](https://linkedin.com/in/sourabh_ramteke)
+
+<br clear="both"/>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Achievements & Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maa101-hub&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maa101-hub&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=maa101-hub&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </p>
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/LeetCode-1800+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<br><b>Rating</b>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Problems-500+-00B8A3?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<br><b>Solved</b>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/DSA-C++%20%7C%20Java-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<br><b>Languages</b>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Intern-Mphasis-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white"/>
+<br><b>Experience</b>
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
+
+<details open>
+<summary><b>Languages</b></summary>
+<br>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maa101-hub&theme=tokyo-night" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,javascript,typescript,python&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>Backend & Frameworks</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,hibernate&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>Frontend</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,html,css,redux&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>Database & DevOps</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,postman,figma&theme=dark" />
+</p>
+</details>
+
+<details open>
+<summary><b>AI / ML</b></summary>
+<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="48" height="48"/>
+</p>
+</details>
+
+---
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="30"> GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maa101-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=maa101-hub&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+</p>
+
+<p align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=maa101-hub&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
+</p>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
 
-## 📌 Featured Project
-### ✈️ SkyWays Airline System
-- Full Stack Airline Management System  
-- Backend: **Spring Boot**  
-- Frontend: **React + Tailwind**  
-- Features: Booking, Authentication, REST APIs  
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Project
 
-🔗 https://github.com/maa101-hub/SkyWaysAirline_Project
+<table align="center">
+<tr>
+<td width="50%">
+
+### <img src="https://em-content.zobj.net/source/twitter/376/airplane_2708-fe0f.png" width="20"> SkyWays Airline System
+
+<p>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+Full Stack Airline Management System with:
+- Flight Booking & Management
+- User Authentication & Authorization
+- RESTful API Architecture
+- Responsive UI with Tailwind CSS
+
+<a href="https://github.com/maa101-hub/SkyWaysAirline_Project">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Currently Learning
-- 🤖 Generative AI  
-- ⚙️ Scalable System Design  
-- 🧠 Machine Learning (Pandas, NumPy)
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-FF6F61?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Design-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</p>
 
 ---
 
-## 📝 Blogs
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/sourabh_ramteke"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/sourabh_101"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://kaggle.com/sourabhramteke"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://medium.com/@sourabhramteke1311"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/sour1311"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/sourabh7283"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/sourabhramteke11"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/sourabhracv1w"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://instagram.com/s_ramteke13"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Blogs
+
 <!-- BLOG-POST-LIST:START -->
 Coming Soon...
 <!-- BLOG-POST-LIST:END -->
 
 ---
-## ☕ Support Me
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Support Me
+
 <p align="center">
-<a href="https://www.buymeacoffee.com/sourabh13">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
-</a>
+  <a href="https://www.buymeacoffee.com/sourabh13">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="center">⭐️ If you like my work, consider giving a star ⭐</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <b>If you like my work, consider giving a star</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20">
+</p>
