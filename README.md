@@ -19,7 +19,7 @@
 
 ```yaml
 name: Sourabh Ramteke
-role: SDE Intern @ Mphasis
+role: Ex-SDE Intern @ Mphasis
 location: India
 current_project: SkyWays Airline System & Job Portal
 education: MCA in Computer Application NIT Trichy
