@@ -4,12 +4,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=45&lines=SDE+Intern+%40+Mphasis;1800%2B+LeetCode+Rating+%F0%9F%94%A5;Spring+Boot+%7C+React+%7C+Microservices;Building+Scalable+Backend+Systems;Exploring+Generative+AI+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=45&lines=SDE+Intern+%40+Mphasis;700%2B+LeetCode+%7C+600%2B+GFG+Problems+Solved;Spring+Boot+%7C+React+%7C+Microservices;Building+Scalable+Backend+Systems;Exploring+Generative+AI+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maa101-hub&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/maa101-hub?label=Followers&style=for-the-badge&color=6C63FF" />
+  <a href="mailto:sourabhramteke1311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -20,8 +21,9 @@
 name: Sourabh Ramteke
 role: SDE Intern @ Mphasis
 location: India
-current_project: SkyWays Airline System
+current_project: SkyWays Airline System & Job Portal
 education: B.Tech in Computer Science
+email: sourabhramteke1311@gmail.com
 
 fields_of_interest:
   - Backend Development
@@ -34,15 +36,22 @@ currently_learning:
   - Generative AI
   - Advanced Spring Boot Microservices
 
+achievements:
+  - "700+ LeetCode Problems Solved"
+  - "600+ GFG Problems Solved"
+  - "SDE Intern @ Mphasis"
+
 fun_fact: "I turn complex problems into optimized solutions"
 ```
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-- **Working on:** SkyWays Airline System
+- **Working on:** SkyWays Airline System & Job Portal
 - **Learning:** GenAI, System Design, ML
 - **Ask me about:** Java, Spring Boot, DSA, React
-- **LeetCode:** 1800+ Rating
+- **LeetCode:** 700+ Problems Solved
+- **GFG:** 600+ Problems Solved
+- **Email:** sourabhramteke1311@gmail.com
 - **Reach me:** [LinkedIn](https://linkedin.com/in/sourabh_ramteke)
 
 <br clear="both"/>
@@ -57,20 +66,24 @@ fun_fact: "I turn complex problems into optimized solutions"
 
 <table align="center">
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/LeetCode-1800+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<br><b>Rating</b>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/LeetCode-700+-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<br><b>Problems Solved</b>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Problems-500+-00B8A3?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<br><b>Solved</b>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/GFG-600+-00B8A3?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+<br><b>Problems Solved</b>
 </td>
-<td align="center" width="200">
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/Rating-1800+-FF6B35?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<br><b>LeetCode Rating</b>
+</td>
+<td align="center" width="180">
 <img src="https://img.shields.io/badge/DSA-C++%20%7C%20Java-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <br><b>Languages</b>
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Intern-Mphasis-purple?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white"/>
+<td align="center" width="180">
+<img src="https://img.shields.io/badge/Intern-Mphasis-purple?style=for-the-badge&logoColor=white"/>
 <br><b>Experience</b>
 </td>
 </tr>
@@ -131,6 +144,10 @@ fun_fact: "I turn complex problems into optimized solutions"
 </p>
 
 <p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maa101-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
+</p>
+
+<p align="center">
   <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=maa101-hub&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" />
 </p>
 
@@ -141,7 +158,7 @@ fun_fact: "I turn complex problems into optimized solutions"
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Project
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Featured Projects
 
 <table align="center">
 <tr>
@@ -167,6 +184,65 @@ Full Stack Airline Management System with:
 </a>
 
 </td>
+<td width="50%">
+
+### <img src="https://em-content.zobj.net/source/twitter/376/briefcase_1f4bc.png" width="20"> Job Portal Application
+
+<p>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white"/>
+</p>
+
+Full Stack Job Portal Platform with:
+- Job Posting & Application Management
+- Role-based Access (Admin, Recruiter, User)
+- Advanced Search & Filter
+- Secure Authentication with JWT
+
+<a href="https://github.com/maa101-hub">
+<img src="https://img.shields.io/badge/View%20Project-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> DSA Journey
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Problems-1300+-blueviolet?style=for-the-badge"/>
+</p>
+
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://www.leetcode.com/sourabh_101">
+<img src="https://img.shields.io/badge/LeetCode-700+%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+<br><b>Rating: 1800+</b>
+</td>
+<td align="center">
+<a href="https://auth.geeksforgeeks.org/user/sourabhracv1w">
+<img src="https://img.shields.io/badge/GFG-600+%20Solved-00B8A3?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+<br><b>Strong Problem Solver</b>
+</td>
+<td align="center">
+<a href="https://codeforces.com/profile/sour1311">
+<img src="https://img.shields.io/badge/Codeforces-Active-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+<br><b>Competitive Coder</b>
+</td>
+<td align="center">
+<a href="https://www.codechef.com/users/sourabh7283">
+<img src="https://img.shields.io/badge/CodeChef-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<br><b>Problem Solver</b>
+</td>
 </tr>
 </table>
 
@@ -179,6 +255,7 @@ Full Stack Airline Management System with:
   <img src="https://img.shields.io/badge/System%20Design-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker%20%26%20DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
@@ -186,15 +263,24 @@ Full Stack Airline Management System with:
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect With Me
 
 <p align="center">
+  <a href="mailto:sourabhramteke1311@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/sourabh_ramteke"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.leetcode.com/sourabh_101"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/sourabhracv1w"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
   <a href="https://kaggle.com/sourabhramteke"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
   <a href="https://medium.com/@sourabhramteke1311"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://codeforces.com/profile/sour1311"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/sourabh7283"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/sourabhramteke11"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/sourabhracv1w"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
   <a href="https://instagram.com/s_ramteke13"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
@@ -221,6 +307,12 @@ Coming Soon...
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20"> 
+  If you like my work, consider giving a star 
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20">
+</h3>
+
 <p align="center">
-  <b>If you like my work, consider giving a star</b> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="20">
+  <b>Happy Coding!</b> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
 </p>
