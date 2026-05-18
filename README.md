@@ -22,7 +22,7 @@ name: Sourabh Ramteke
 role: SDE Intern @ Mphasis
 location: India
 current_project: SkyWays Airline System & Job Portal
-education: B.Tech in Computer Science
+education: MCA in Computer Application NIT Trichy
 email: sourabhramteke1311@gmail.com
 
 fields_of_interest:
