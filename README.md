@@ -2,13 +2,14 @@
 
 <p align="center">
   <a href="https://github.com/maa101-hub">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=45&lines=Full-Stack+Java+Developer;Spring+Boot+Microservices+Engineer;1300%2B+DSA+Problems+Solved;Building+CampusConnect+%E2%80%94+Social+Platform" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=45&lines=Full-Stack+Java+Developer;Spring+Boot+Microservices+Engineer;1300%2B+DSA+Problems+Solved;Building+Scalable+Production+Systems" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maa101-hub&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/maa101-hub?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers" />
+  <a href="https://portfolio-lovat-nine-p6b17s5lf9.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:sourabhramteke1311@gmail.com"><img src="https://img.shields.io/badge/Email-sourabhramteke1311-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -22,10 +23,11 @@ role: Full-Stack Java Developer
 education: MCA @ NIT Trichy
 experience: Ex-SDE Intern @ Mphasis
 location: India
+portfolio: https://portfolio-lovat-nine-p6b17s5lf9.vercel.app/
 
 current_focus:
-  - "CampusConnect — Microservices Social Platform"
-  - "Scalable System Design"
+  - "CampusConnect - Microservices Social Platform"
+  - "Scalable System Design & Architecture"
   - "Spring Boot + React Production Apps"
 
 achievements:
@@ -47,7 +49,8 @@ ask_me_about:
 - 🌱 Learning: **System Design, GenAI, Advanced Microservices**
 - 💻 Stack: **Java + Spring Boot + React + Docker**
 - 🏆 DSA: **1300+ Problems** across LeetCode & GFG
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/sourabh-ramteke-704152289) • [Email](mailto:sourabhramteke1311@gmail.com)
+- 🌐 Portfolio: **[sourabh-ramteke.vercel.app](https://portfolio-lovat-nine-p6b17s5lf9.vercel.app/)**
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/sourabh-ramteke-704152289) | [Email](mailto:sourabhramteke1311@gmail.com)
 
 ---
 
@@ -60,36 +63,44 @@ ask_me_about:
 ### 🎓 [CampusConnect](https://github.com/maa101-hub/campus-connect)
 **Full-Stack Microservices Social Platform**
 
-A production-grade college social network with:
-- ⚡ Spring Boot Microservices (Gateway, Eureka, User, Post)
-- 💬 Real-time WebSocket Messaging
-- 🔐 JWT Auth + OTP Email Verification
-- 🐳 Docker Compose + Redis + PostgreSQL
-- ⚛️ React 19 + Tailwind + Framer Motion
-- 🔄 CI/CD with GitHub Actions
+A production-grade college social network built with scalable architecture:
+
+- ⚡ **Microservices** — API Gateway, Eureka Discovery, User, Post & Chat Services
+- 💬 **Real-time Messaging** — WebSocket-powered instant communication
+- 🔐 **Security** — JWT Authentication + OTP Email Verification
+- 🐳 **Containerized** — Docker Compose for full orchestration
+- 🗄️ **Data Layer** — PostgreSQL + Redis Caching
+- ⚛️ **Modern UI** — React 19 + Tailwind + Framer Motion
+- 🔄 **CI/CD** — Automated with GitHub Actions
 
 ![Java](https://img.shields.io/badge/Java-17-ED8B00?style=flat-square&logo=openjdk)
 ![Spring](https://img.shields.io/badge/Spring_Boot-3.4-6DB33F?style=flat-square&logo=springboot)
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
-![Docker](https://img.shields.io/badge/Docker-✓-2496ED?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis)
 
 </td>
 <td width="50%">
 
-### ✈️ [SkyWays Airline System](https://github.com/maa101-hub/SkyWaysAirline_Project)
+### ✈️ [SkyWays Airline Booking System](https://github.com/maa101-hub/SkyWaysAirline_Project)
 **Full-Stack Flight Booking Platform**
 
-Complete airline management system with:
-- 🎫 Flight Booking & Seat Selection
-- 👤 User Authentication & Profiles
-- 🔍 Search & Filter Flights
-- 📱 Responsive UI with Tailwind CSS
-- 🗄️ RESTful API Architecture
+A comprehensive airline reservation system with end-to-end booking workflow:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- 🎫 **Smart Booking Engine** — Search, compare & book flights seamlessly
+- 💺 **Seat Selection** — Interactive seat map with real-time availability
+- 👤 **User Management** — Secure authentication, profiles & booking history
+- 🔍 **Advanced Search** — Filter by date, destination, price & airline
+- 📱 **Responsive Design** — Pixel-perfect UI across all devices
+- 🗄️ **RESTful APIs** — Clean architecture with proper error handling
+- 🔒 **Secure Payments** — Protected transaction flow
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![REST](https://img.shields.io/badge/REST-API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </td>
 </tr>
@@ -117,21 +128,40 @@ Complete airline management system with:
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<table align="center">
+<tr>
+<td align="center"><strong>Languages</strong></td>
+<td>
 
 ![Java](https://skillicons.dev/icons?i=java,cpp,javascript,typescript,python&theme=dark)
 
-**Backend & Frameworks**
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Backend</strong></td>
+<td>
 
 ![Backend](https://skillicons.dev/icons?i=spring,nodejs,express,hibernate&theme=dark)
 
-**Frontend**
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Frontend</strong></td>
+<td>
 
 ![Frontend](https://skillicons.dev/icons?i=react,tailwind,html,css,redux&theme=dark)
 
-**Database & DevOps**
+</td>
+</tr>
+<tr>
+<td align="center"><strong>Database & DevOps</strong></td>
+<td>
 
 ![DevOps](https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,docker,git&theme=dark)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -172,6 +202,7 @@ Complete airline management system with:
 ## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://portfolio-lovat-nine-p6b17s5lf9.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:sourabhramteke1311@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sourabh-ramteke-704152289"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.leetcode.com/Sourabh_101"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
