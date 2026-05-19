@@ -144,6 +144,47 @@ tech_philosophy: |
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+<h3 align="center">😂 Random Joke Generator</h3>
+<p align="center">
+  <a href="https://portfolio-lovat-nine-p6b17s5lf9.vercel.app/projects/joke-generator/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-6C63FF?style=for-the-badge" alt="Live Demo"/>
+  </a>
+  <a href="https://github.com/maa101-hub/portfolio/tree/main/projects/joke-generator">
+    <img src="https://img.shields.io/badge/View_Source-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+**Fun Interactive Web App — Fetches random jokes with smooth animations & history tracking**
+
+> A beautifully designed joke generator with API integration, localStorage persistence, copy-to-clipboard, and keyboard shortcuts.
+
+<p align="center">
+
+| Feature | Details |
+|---------|---------|
+| 🎲 Random Jokes | Fetches from Official Joke API |
+| 📋 Copy to Clipboard | One-click joke sharing |
+| 📜 Joke History | LocalStorage-powered history (last 10) |
+| ⌨️ Keyboard Support | Press Space to get new joke |
+| 🎨 Animated UI | CSS animations, gradient backgrounds, hover effects |
+| 📱 Fully Responsive | Mobile-first grid layout |
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Fetch_API-4285F4?style=flat-square&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LocalStorage-FF9800?style=flat-square&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3_Animations-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Font_Awesome-528DD7?style=flat-square&logo=fontawesome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive-Design-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
+</td>
+</tr>
 </table>
 
 <br/>
